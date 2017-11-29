@@ -7,6 +7,7 @@ public class TestApp {
 		
 		//komment
 		System.out.println("hello bello new branch");
+		System.out.println("hello bello master");
 
 	}
 }
