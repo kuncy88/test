@@ -6,6 +6,7 @@ public class TestApp {
 		System.out.println("Hello git");
 		
 		//komment
-		System.out.println("átírva");
+		System.out.println("hello bello new branch");
+
 	}
 }
